@@ -1,0 +1,13 @@
+{
+    "name": "Heat Generator: 8 Pilots Double Elimination",
+    "domain": "generator_8_pilots_de",
+    "author": "Dutch Drone Racing",
+    "author_uri": "https://dutchdroneracing.com/",
+    "description": "Generates 8 Pilots Double Elimination heats",
+    "info_uri": "https://github.com/DutchDroneRacing/RH-Generator-8-Pilot-DE/",
+    "license": "Dutch Drone Racing",
+    "license_uri": "https://github.com/RotorHazard/RotorHazard/blob/main/LICENSE",
+    "version": "1.0.0",
+    "required_rhapi_version": "1.2",
+    "category": ["Heat Generators"]
+}
